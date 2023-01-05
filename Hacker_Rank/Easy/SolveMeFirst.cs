@@ -11,8 +11,8 @@ namespace Hacker_Rank.Easy
         public static void Run()
         {
             //-----------------hackerrank
-            int d = 18, m = 7;
-            tes
+            //int d = 18, m = 7;
+            int d = 20, m = 10;
 
             int res = solveMeFirstTest(d, m);
             Console.WriteLine(res);
