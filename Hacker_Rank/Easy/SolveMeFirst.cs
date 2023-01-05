@@ -12,7 +12,7 @@ namespace Hacker_Rank.Easy
         {
             //-----------------hackerrank
             int d = 18, m = 7;
-
+            tes
 
             int res = solveMeFirstTest(d, m);
             Console.WriteLine(res);
