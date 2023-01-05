@@ -25,6 +25,7 @@ namespace Hacker_Rank.Easy
         {
             string res = "";
             int counter = 0;
+            //conditional
             if (v2<v1)
             {
                 if (counter == 0)
